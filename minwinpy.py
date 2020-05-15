@@ -326,16 +326,5 @@ if __name__ == "__main__" :
     print(TantraGame.GetWindowsName())
 
 
-
-
-
-
-
-
-    while 1:
-        TantraGame.PressKey("e", pressTime=0.5)
-        time.sleep(1)
-
-
         
 
