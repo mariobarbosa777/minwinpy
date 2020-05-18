@@ -314,17 +314,5 @@ class minwinpy:
     
 
         
-
-
-
-if __name__ == "__main__" :
-
-    TantraGame = minwinpy("Mateito")
-    namePJ="Nexo Game"
-
-    TantraGame.SetWindowsName(namePJ)
-    print(TantraGame.GetWindowsName())
-
-
-        
+       
 
