@@ -311,8 +311,3 @@ class minwinpy:
         win32gui.DeleteObject(saveBitMap.GetHandle())
 
         return [r, g, b]
-    
-
-        
-       
-
