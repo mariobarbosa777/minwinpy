@@ -287,6 +287,9 @@ class minwinpy:
     def GetWindowsName(self):
         return self._WindonsName
 
+    def CloseWindows():
+        pass 
+
 
     def GetPixelRGBColor(self,pos):
 
