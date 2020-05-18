@@ -287,7 +287,7 @@ class minwinpy:
     def GetWindowsName(self):
         return self._WindonsName
 
-    def CloseWindows():
+    def CloseWindows(self):
         pass 
 
 
