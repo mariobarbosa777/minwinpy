@@ -1,4 +1,7 @@
 # minwinpy v 0.2.4
-class with methods to work on minimized windows  with python 
+It's a library to work with minimized/inactive/background windows,
+using win32 libraries, for direct communication.
+
+tested with python 3 and windows 10
 
 Look for examples on wiki
