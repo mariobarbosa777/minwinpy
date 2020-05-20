@@ -4,4 +4,4 @@ using win32 libraries, for direct communication.
 
 tested with python 3 and windows 10
 
-Look for examples on wiki
+Look for examples on wiki (https://github.com/mariobarbosa777/minwinpy/wiki)
