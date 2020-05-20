@@ -185,7 +185,7 @@ class minwinpy:
 
     def LeftClick(self, pos, pressTime=0.1):
         """
-            Left click in  pos[1],pos[2] a seconds
+            Left click in  pos[1],pos[2] during pressTime seconds
             (LButtonDowm, wait a time ,LButtonUp),
         """
         tmp=win32api.MAKELONG(pos[1],pos[2])
@@ -286,6 +286,9 @@ class minwinpy:
 
     def GetWindowsName(self):
         return self._WindonsName
+
+    def CloseWindows(self):
+        pass 
 
 
     def GetPixelRGBColor(self,pos):
